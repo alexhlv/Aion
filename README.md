@@ -3,7 +3,7 @@
 **This is my first drop down menu template without using Bootstrap**
 
 
-Link to the finished layout [https://alexhlv.github.io/Drop-down-menu-not-bootstrap/)
+Link to the finished layout [GitHub](https://alexhlv.github.io/Drop-down-menu-not-bootstrap/)
 
 ------------------------------------------------------------
 
